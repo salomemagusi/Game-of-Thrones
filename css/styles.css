@@ -7,10 +7,11 @@
   font-size: 45px;
   color:red;
 }
-h2 {
-  font-size:25px;
-}
 p {
   font-size: 35px;
   color: red;
+}
+h1 {
+  font-size:25px;
+  color:purple;
 }
