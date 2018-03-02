@@ -1,0 +1,22 @@
+.container-fluid {
+  background-image: url("/home/salome/Downloads/102017-conquest-fightforbanner-1024x576.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.col-md-6 {
+  font-size: 45px;
+  color:red;
+}
+p {
+  font-size: 35px;
+  color: red;
+}
+h1 {
+  font-size:25px;
+  color:purple;
+  text-decoration-color: purple;
+}
+.output {
+  font-size: 35px;
+  color: red;
+}
